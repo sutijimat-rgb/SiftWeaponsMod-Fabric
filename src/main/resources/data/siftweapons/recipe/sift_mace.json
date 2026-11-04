@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MEM",
+    "DND",
+    "MEM"
+  ],
+  "key": {
+    "M": { "item": "minecraft:mace" },
+    "E": { "item": "minecraft:elytra" },
+    "D": { "item": "minecraft:diamond_block" },
+    "N": { "item": "minecraft:netherite_ingot" }
+  },
+  "result": {
+    "id": "siftweapons:sift_mace",
+    "count": 1
+  }
+}

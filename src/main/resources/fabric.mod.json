@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "siftweapons",
+  "version": "${version}",
+  "name": "Sift Weapons (Freshlol Style)",
+  "description": "14-level Spear/Mace progression + limited God & Sift weapons. Spawn with level 1, upgrade on kill.",
+  "authors": ["Grok for Freshlol fans"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.freshlol.siftweapons.SiftWeaponsMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

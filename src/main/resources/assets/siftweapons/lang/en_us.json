@@ -1,0 +1,10 @@
+{
+  "item.siftweapons.levelled_mace": "Mace (Level %s)",
+  "item.siftweapons.levelled_spear": "Spear (Level %s)",
+  "item.siftweapons.sift_mace": "Sift Mace",
+  "item.siftweapons.god_mace": "God Mace",
+  "item.siftweapons.god_spear": "God Spear",
+  "item.siftweapons.sift_mace.desc": "Only 2 exist. Dash + Strength III + Speed III",
+  "item.siftweapons.god_mace.desc": "Only 1 exists. Ultimate power.",
+  "item.siftweapons.god_spear.desc": "Only 1 exists. Ultimate power."
+}
